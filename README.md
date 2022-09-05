@@ -4,4 +4,4 @@ My first hands-on on time series analysis and predictions on Bitcoin Close price
 Historical Data fetched from yahoo finance with the help of pandas datareader
 The prediction and analysis are based on just one column (Close).
 Analysis and modelling are done with statsmodels, scikit-learn, pandas, matplotlib.
-Will also add Facebook Prophet modelling notebook.
+Modelling with Facebook Prophet added.
